@@ -1,0 +1,1 @@
+This project demonstrates how to create ERC-20 and ERC-721 tokens, deploy and verify it.
